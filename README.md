@@ -110,6 +110,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+- [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
 - [PageBolt](https://pagebolt.dev) - Screenshot, video recording, PDF, and page inspection API with device emulation, ad blocking, and cookie banner removal.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
 - [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
